@@ -19,7 +19,7 @@ Matplotlib相关子模块
 
 关键功能对应库  
 1.数据获取  
-requests.get()：从WeatherAPI获取JSON数据
+requests.get()：从WeatherAPI获取JSON数据  
 2.可视化  
 plt.plot()：温度曲线  
 plt.pie()：天气分布饼图  
